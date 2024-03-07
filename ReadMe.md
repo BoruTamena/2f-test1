@@ -94,6 +94,6 @@ Implement a code that allows you to get the details of a company department.
 
 ### Solution
 
-Explore the provided Go implementation in `stack.go`. This program showcases a basic stack with essential methods such as Push, Pop, and Empty.
+Explore the provided Go implementation in `company_detail.go`. This program showcases a basic stack with essential methods such as Push, Pop, and Empty.
 
 Feel free to explore the source code for each task and adapt them to your specific needs or learning objectives. If you have any questions or suggestions, please feel free to open an issue or contribute to the repository.
